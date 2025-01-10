@@ -103,6 +103,7 @@ After pressing each button, you can notice that the color changes if the operati
 Data_Science/  
 ├── data.csv/
 ├── data.xlsx/                  
-├── PROJECT_IMS.py/                
-└── requirements.txt 
+├── PROJECT_IMS.py/
+├── requirements.txt              
+└── README.md 
 ```
