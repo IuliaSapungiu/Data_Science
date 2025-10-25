@@ -1,4 +1,4 @@
-# Data Science University Project 🎓
+# E-commerce Data Scraper & Visualisation - Data Science University Project -  🎓
 ###### This is a documentation regarding the project I've created. This project was developed as part of a Data Science learning journey.
 ###### It reflects a combination of technical skills and practical applications to solve real-world data challenges.
 
